@@ -7,8 +7,7 @@ export let options = {
         { duration: '20s', target:  17 },
         { duration: '50s', target:  51 },
         { duration: '30s', target:  51 },
-        { duration: '30s', target:  17 },
-        { duration: '30s', target:  17 }
+        { duration: '30s', target:  34 }
     ],
 
     thresholds: {
